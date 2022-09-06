@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋,eu sou Cleberson Garcia</h1>
-<h3 align="center">Desenvolvedor Web full-stack atrás de mais conhecimento</h3>
+<h3 align="center">Desenvolvedor Web Full-Stack em busca de aprimorar meus conhecimentos e habilidades.</h3>
 
 - 🌱 Atualmente estou aprendendo **Django, React, Bootstrap**
 
@@ -8,6 +8,7 @@
 <a href="https://twitter.com/clebersongarc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clebersongarc05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cleberson-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberson-garcia" height="30" width="40" /></a>
 <a href="https://instagram.com/cleberson_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleberson_garcia" height="30" width="40" /></a>
+<a href="https://fb.com/cleberson.garcia.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleberson.garcia.10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
