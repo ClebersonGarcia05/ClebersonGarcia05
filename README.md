@@ -3,11 +3,10 @@
 
 - 🌱 Atualmente estou aprendendo **Django, React, Bootstrap**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contate-me:</h3>
 <p align="left">
 <a href="https://twitter.com/clebersongarc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clebersongarc05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cleberson-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberson-garcia" height="30" width="40" /></a>
-<a href="https://fb.com/cleberson garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleberson garcia" height="30" width="40" /></a>
 <a href="https://instagram.com/cleberson_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleberson_garcia" height="30" width="40" /></a>
 </p>
 
