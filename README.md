@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋,eu sou Cleberson Garcia</h1>
-<h3 align="center">Desenvolvedor web full-stack atrás de mais conhecimento</h3>
+<h3 align="center">Desenvolvedor Web full-stack atrás de mais conhecimento</h3>
 
 - 🌱 Atualmente estou aprendendo **Django, React, Bootstrap**
 
