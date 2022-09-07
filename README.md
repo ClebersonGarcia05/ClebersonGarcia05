@@ -1,8 +1,9 @@
 ## Olá, me chamo Cleberson Garcia ! 
 ### Bem vindo ao meu perfil GitHub 👋
+<div>
+<img src="https://user-images.githubusercontent.com/63430728/188938220-ead87146-397a-4dd2-80b9-566c00455339.png" width="150px" heigth="150px">
+</div>
 <br>
-
-
 <p align="left">
 <a href="https://twitter.com/clebersongarc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clebersongarc05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cleberson-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberson-garcia" height="30" width="40" /></a>
