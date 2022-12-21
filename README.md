@@ -10,10 +10,10 @@
 <a href="https://instagram.com/cleberson_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleberson_garcia" height="30" width="40" /></a>
 </p>
 <br>
-<p>Tenho 22 anos e moro em Patrocínio Paulista/SP apaixonado pelos códigos, números e binários!<br>
+<p>Tenho 23 anos e moro em Franca/SP, apaixonado pelos códigos, números e binários!<br>
 Com foco em desenvolvimento web com Python e Django!<br>
 <br>
-Atualmente estou trabalhando com suporte técnico ao usuário e me formando em sistemas de informação na universidade de Franca/SP.
+Atualmente estou trabalhando com suporte técnico ao usuário e me formando em Sistemas de Informação na universidade de Franca/SP.
 <br>
 </p>
 
