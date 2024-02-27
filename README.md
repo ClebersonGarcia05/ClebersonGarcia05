@@ -5,7 +5,6 @@
 </div>
 <br>
 <p align="left">
-<a href="https://twitter.com/clebersongarc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clebersongarc05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cleberson-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleberson-garcia" height="30" width="40" /></a>
 <a href="https://instagram.com/cleberson_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleberson_garcia" height="30" width="40" /></a>
 </p>
