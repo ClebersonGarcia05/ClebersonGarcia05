@@ -10,9 +10,9 @@
 </p>
 <br>
 <p>Tenho 24 anos e moro em Franca/SP, apaixonado pelos códigos, números e binários!<br>
-Com foco em desenvolvimento web!<br>
+Com foco em análise de dados!<br>
 <br>
-Atualmente estou trabalhando como Analista de suporte técnico ao usuário.
+Atualmente estou trabalhando como Analista de suporte técnico.
 <br>
 Formado em Bacharel em Sistemas de Informação na universidade de Franca (UNIFRAN) em Franca-SP
 </p>
