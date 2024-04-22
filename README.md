@@ -31,10 +31,8 @@ Formado em Bacharel em Sistemas de Informação na universidade de Franca (UNIFR
 
 <h3 align="left">Estou aprendendo:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" heigth="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" heigth="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" heigth="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" heigth="40px"/>
 </p>
 
 ![Snake animation](https://github.com/ClebersonGarcia05/ClebersonGarcia05/blob/output/github-contribution-grid-snake.svg)
