@@ -10,7 +10,7 @@
 </p>
 <br>
 <p>Tenho 24 anos e moro em Franca/SP, apaixonado pelos códigos, números e binários!<br>
-Com foco em análise de dados!<br>
+Com foco na área de dados.<br>
 <br>
 Atualmente estou trabalhando como Analista de suporte técnico.
 <br>
