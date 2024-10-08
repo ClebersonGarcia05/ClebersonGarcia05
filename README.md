@@ -25,4 +25,3 @@
 ## 📫 Entre em Contato
 - **Email**: cleberson.garcia051299@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/cleberson-garcia/)
-- [GitHub](https://github.com/ClebersonGarcia05)
