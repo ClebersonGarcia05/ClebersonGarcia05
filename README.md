@@ -1,6 +1,6 @@
 # Cleberson Garcia - Data Analyst
 
-👋 Olá! Eu sou **Cleberson Garcia**, especialista em análise de dados e entusiasta de tecnologias. Apaixonado por transformar dados em insights valiosos e encontrar soluções através de visualizações e modelos preditivos.
+👋 Olá! Eu sou **Cleberson Garcia**, analista de dados e entusiasta de tecnologias. Apaixonado por transformar dados em insights valiosos e encontrar soluções através de visualizações e modelos preditivos.
 
 ## 🔧 Habilidades Técnicas
 
